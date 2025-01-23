@@ -1,5 +1,5 @@
 # Deployment guite 
-Panduan ini menjelaskan langkah-langkah untuk Deployment guite aplikasi toko online sederhana, melakukan migrasi database, dan menambahkan data awal menggunakan seeder.
+Panduan ini menjelaskan langkah-langkah untuk Deployment guite aplikasi toko online sederhana, melakukan migrasi database, dan menambahkan data awal menggunakan seeder. untuk contoh data anda bisa menggunakan data yang ada di folder public/exel
 
 ---
 
