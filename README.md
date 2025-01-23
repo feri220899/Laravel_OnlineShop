@@ -12,7 +12,7 @@ Panduan ini menjelaskan langkah-langkah untuk Deployment guite aplikasi toko onl
 ### Langkah Instalasi
 1. **Clone Proyek**:
    ```bash
-   git clone https://github.com/feri220899/LaravelOnlineShop.git
+   git clone https://github.com/feri220899/Laravel_OnlineShop.git
    ```
 2. **Instal Dependency**:
    ```bash
