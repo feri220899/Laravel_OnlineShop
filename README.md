@@ -7,8 +7,7 @@ Panduan ini menjelaskan langkah-langkah untuk Deployment guite aplikasi toko onl
 ### Prasyarat
 - **PHP**: Versi 8.0 atau lebih baru.
 - **Composer**: Dependency manager untuk PHP.
-- **Database**: PostgreSQL
-- **Web Server**: Apache atau Nginx.
+- **Database**: MySql
 
 ### Langkah Instalasi
 1. **Clone Proyek**:
@@ -17,7 +16,7 @@ Panduan ini menjelaskan langkah-langkah untuk Deployment guite aplikasi toko onl
    ```
 2. **Instal Dependency**:
    ```bash
-   composer install
+   composer install/update
    ```
 3. **Konfigurasi File `.env`**:
    - Salin file `.env.example` menjadi `.env`:
